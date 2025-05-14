@@ -3,7 +3,8 @@ Badanie wycieków gazów
 
 # Aplikacja do analizy danych CSV
 
-To jest prosta aplikacja w Pythonie, która przetwarza dane z pliku CSV i generuje wykres w pliku *.xlsx.
+To jest prosta aplikacja, która przetwarza dane z czterech pliku CSV i generuje wykres stężenia gazu w pliku *Wykres.xlsx.
 
-## 📁 Struktura projektu
+
+
 
